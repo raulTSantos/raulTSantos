@@ -1,4 +1,9 @@
+
+![banner_github](https://user-images.githubusercontent.com/82481539/215380676-64b4e4eb-4c1f-4d28-88a3-891aebda1fcc.gif)
+
 ### Hi there 👋
+
+
 
 <!--
 **raulTSantos/raulTSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
